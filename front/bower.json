@@ -1,0 +1,9 @@
+{
+  "name": "wishes",
+  "dependencies": {
+    "ember": "~2.9.0",
+    "ember-cli-shims": "0.1.3",
+    "js-cookie": "^2.0.4",
+    "jquery-mockjax": "2.2.1"
+  }
+}
